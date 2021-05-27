@@ -1,2 +1,2 @@
 # MechWare
-## UX for an App to find local mechanic and rent items.
+## An app to find local mechanic and items on rent.
